@@ -1,0 +1,5 @@
+{
+  "name": "cldr-data-requirejs-plugin",
+  "main": "cldr-data",
+  "version": "0.0.1-pre"
+}
